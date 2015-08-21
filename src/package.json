@@ -1,0 +1,10 @@
+{
+  "name": "docker-fake-app",
+  "private": true,
+  "version": "0.0.1",
+  "description": "iojs.js fake app using docker",
+  "author": "Vincent POMMIER <pommier.v@gmail.com>",
+  "dependencies": {
+    "express": "3.2.4"
+  }
+}
